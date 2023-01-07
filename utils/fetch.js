@@ -1,7 +1,5 @@
 export async function fetchApi() {
-  const res = await fetch(
-    "https://events-8a14a-default-rtdb.firebaseio.com/events.json"
-  );
+  const res = await fetch();
   const data = await res.json();
   return data;
 
