@@ -1,1 +1,1 @@
-# Events-App
+# Standardized Configuration Management With Ansible
